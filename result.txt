@@ -1,0 +1,2 @@
+1. When you start Minecraft from the MinecraftLauncher, the MinecraftLauncher gets blocked so Minecraft can start. 
+   After Minecraft started, MinecraftLauncher is runnig again and shuts itself down.
